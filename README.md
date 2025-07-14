@@ -73,3 +73,13 @@ This model restarts fresh on each run — it **does not learn or evolve** over t
 Weights are **ratios**, not probabilities:
 ```text
 Object Weight = Current Activation / Ideal Activation
+```
+## 📚 References
+
+Beavers, A. F. (2010). *Typicality Effects and Resilience in Evolving Dynamic Associative Networks*.  
+In *Complex Adaptive Systems – Resilience, Robustness, and Evolvability: Papers from the AAAI Fall Symposium (FS-10-03)*.  
+[https://cdn.aaai.org/ocs/2321/2321-9515-1-PB.pdf](https://cdn.aaai.org/ocs/2321/2321-9515-1-PB.pdf)
+
+McClelland, J. L., & Rumelhart, D. E. (1981). *Retrieving General and Specific Information from Stored Knowledge of Specifics*.  
+University of California eScholarship Repository.  
+[https://escholarship.org/uc/item/9qr1n7jv](https://escholarship.org/uc/item/9qr1n7jv)
