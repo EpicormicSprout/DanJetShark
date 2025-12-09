@@ -1,3 +1,5 @@
+#This is a work in progress... 
+
 ![Header Image](images/dan_cover.png)
 
 # Dynamic Associative Networks: An Interactive Model
